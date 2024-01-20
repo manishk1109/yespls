@@ -16,6 +16,6 @@ yes.addEventListener('click',()=>{
     let please = document.querySelector('.middleimg');
     let title = document.querySelector('.title');
     please.src = 'thanks.gif';
-        title.innerHTML = 'Thanks💖✨' ;
+        title.innerHTML = 'Ise bat pr kuch meetha ho jaye 🍫🌹' ;
     document.querySelectorAll('.')
 })
